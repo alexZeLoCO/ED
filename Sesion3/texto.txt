@@ -1,0 +1,4 @@
+La abstracción consiste en aislar un elemento de su contexto o del resto
+de los elementos que lo acompañan. En programación, el término se refiere
+al énfasis en el "¿qué hace?" más que en el "¿cómo lo hace?" (característica
+de caja negra).
